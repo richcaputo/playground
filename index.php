@@ -1,5 +1,5 @@
 <?php 
-
+//test
 require_once("inc/config.php");
 include(ROOT_PATH . "inc/products.php");
 $recent = get_products_recent();
