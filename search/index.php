@@ -6,7 +6,7 @@ require_once("../inc/config.php");
  *   - Displaying the initial search form
  *   - Handling a form submission and ...
  *       - ... displaying the results if matches are found.
- *       - ... displaying a "no results found" message if necessary.
+ *       - ... displaying a "no results found" message if necessary. test
  */
 
 // if a non-blank search term is specified in
